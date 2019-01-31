@@ -1,0 +1,3 @@
+# Magicstore
+
+Event based store
